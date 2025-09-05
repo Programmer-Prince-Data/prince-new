@@ -1,3 +1,3 @@
 # prince-new
-This is my first Git repository
-It will be fun ig
+This is my first Git Repository|
+It will be fun ig.
